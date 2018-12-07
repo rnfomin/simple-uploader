@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "jquery": "~3.1.0",
-    "simple-module": "git@github.com:rnfse/simple-module.git"
+    "simple-module": "git+https://github.com/rnfse/simple-module.git"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
